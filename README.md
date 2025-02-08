@@ -22,7 +22,7 @@ Before you begin, ensure you have the following:
 1. **Node.js** installed on your machine.
 2. A `tokens.txt` file with your token and refresh token. Follow these steps to get them:
 
-   - Open the Litas dashboard: [Litas Dashboard](https://wallet.litas.io/invite/hardeeps647) 🌐
+   - Open the Litas dashboard: [Litas Dashboard](https://wallet.litas.io/invite/veviloos676760250) 🌐
    - Log in with your email.
    - Open your browser's developer tools (press `F12`) and navigate to the **Application** tab.
    - In **Local Storage**, find `token` and `refreshToken`. Copy both values.  
